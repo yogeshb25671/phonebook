@@ -1,4 +1,4 @@
-#In this project we can save contacts and do these operations in it using file
+In this project we can save contacts and do these operations in it using file
         1) view all contacts.
         2) add a contact.
         3) remove a contact.
